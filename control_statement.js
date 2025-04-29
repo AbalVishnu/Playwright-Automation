@@ -1,5 +1,5 @@
 let a = 1;
-while (a <= 20) {
+while (a <= 30) {
 console.log(a);
 
 a++;
@@ -12,4 +12,4 @@ do {
 console.log(b);
 
 b++;
-}while (b <= 30)
+}while (b <= 40)
